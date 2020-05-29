@@ -1,5 +1,5 @@
 # My_Rpg
-Our own Role Play Game done in team
+Our own Role Play Game done in team (all the assets was bought and assembled by us).
 
 ## How to run it
 - Clone this repository
